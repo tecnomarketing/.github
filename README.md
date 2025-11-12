@@ -29,10 +29,11 @@ Tecnomarketing is a company that offers technical support for printers and PC's 
 <!-- Projects -->
 ## :compass: Internal Projects
 
-* [ ] Servitec
-* [ ] OpenCart
-* [ ] Servitec OpenCart API
-* [ ] TecnoPoS
+* [x] Servitec
+* [x] OpenCart
+* [x] Servitec OpenCart Extension
+* [x] TecnoCart
+* [x] OpenCart REST API Admin Extension
 
 <!-- Code of Conduct -->
 ### :scroll: Privacy policy
