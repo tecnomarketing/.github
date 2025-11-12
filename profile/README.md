@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+
+  <img src="https://tecnomarketing.com.mx/image/cache/catalog/StoreLogo-100x100.png" alt="logo" width="200" height="auto" />
   <h1>Tecnomarketing</h1>
   
   <p>
@@ -29,10 +30,11 @@ Tecnomarketing is a company that offers technical support for printers and PC's 
 <!-- Projects -->
 ## :compass: Internal Projects
 
-* [✔️] Servitec
-* [✔️] OpenCart
-* [✔️] Servitec OpenCart API
-* [✔️] TecnoCart
+* [x] [Servitec](https://github.com/tecnomarketing/servitec)
+* [x] OpenCart (v3.0.4.1)
+* [x] [Servitec OpenCart Extension](https://github.com/tecnomarketing/servitec-opencart-extension)
+* [x] [TecnoCart](https://github.com/tecnomarketing/tecnocart)
+* [x] [OpenCart REST API Admin Extension](https://github.com/tecnomarketing/opencart-v3-rest-admin-api)
 
 <!-- Code of Conduct -->
 ### :scroll: Privacy policy
